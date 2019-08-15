@@ -1,0 +1,19 @@
+TensorFlow 2.0 Upgrade Script
+-----------------------------
+Converted 1 files
+Detected 0 issues that require attention
+--------------------------------------------------------------------------------
+================================================================================
+Detailed log follows:
+
+================================================================================
+--------------------------------------------------------------------------------
+Processing file 'gen_tfr_simple.py'
+ outputting to 'gen_tfr_simple.py'
+--------------------------------------------------------------------------------
+
+112:15: INFO: Renamed 'tf.python_io.TFRecordOptions' to 'tf.io.TFRecordOptions'
+113:25: INFO: Renamed 'tf.python_io.TFRecordCompressionType' to 'tf.io.TFRecordCompressionType'
+114:13: INFO: Renamed 'tf.python_io.TFRecordWriter' to 'tf.io.TFRecordWriter'
+--------------------------------------------------------------------------------
+

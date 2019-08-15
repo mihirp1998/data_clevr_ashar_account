@@ -1,0 +1,1 @@
+rsync -avtu ./* ashar:~/data/
